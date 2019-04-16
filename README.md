@@ -4,7 +4,7 @@ Demo project
 ## Welcome to my Azure Function Plus Docker Project everybody
 
 There are 2 folder as you may see. The folder number 0 contains the project i developed, a Timer Trigger that connects to a local database created
-with SQL Server and make changes on the column status from 1 to 0 when it past 5 days of a potencially buy order, based on the date of it and check it every 5 seconds! (fot this example :D).
+with SQL Server and make changes on the column status from 1 to 0 when it past 5 days of a potencially buy order, based on the date of it and check every 5 seconds!! (for this example :D)
 
 In the folder with number 1 you may see a Default Timer Trigger created with Docker!
 
