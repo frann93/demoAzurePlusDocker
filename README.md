@@ -11,7 +11,7 @@ In the folder with number 1 you may see a Default Timer Trigger created with Doc
 Note: To run the project number 0 (My Timer Trigger) you need to set the enviroment of the database (i let you the script .sql to do so) and set
 the connection string properly.
 
-I really really	had enjoyed presenting this demo for you, it was a nice challenge and i did my best with many problems with my S.O actually.
+I really really	had enjoyed presenting this demo for you, it was a nice challenge and i did my best with a few problems with my S.O actually.
 
 Enjoy it,
 Cya
